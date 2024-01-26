@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9fed48d2-1b15-472a-901f-1b5118db5390" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/vinimrs/agendacontatos/model/Contato.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/vinimrs/agendacontatos/model/Contato.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/vinimrs/agendacontatos/repository/contato.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/vinimrs/agendacontatos/repository/contato.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/vinimrs/agendacontatos/repository/telefone.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/vinimrs/agendacontatos/repository/telefone.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/vinimrs/agendacontatos/services/ContatoServices.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/vinimrs/agendacontatos/services/ContatoServices.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/vinimrs/agendacontatos/services/TelefoneServices.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/vinimrs/agendacontatos/services/TelefoneServices.java" afterDir="false" />
-    </list>
+    <list default="true" id="9fed48d2-1b15-472a-901f-1b5118db5390" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -86,7 +79,7 @@
       <workItem from="1706225075312" duration="1000" />
       <workItem from="1706225258216" duration="10656000" />
       <workItem from="1706279987143" duration="1548000" />
-      <workItem from="1706281544011" duration="6619000" />
+      <workItem from="1706281544011" duration="6931000" />
     </task>
     <servers />
   </component>
