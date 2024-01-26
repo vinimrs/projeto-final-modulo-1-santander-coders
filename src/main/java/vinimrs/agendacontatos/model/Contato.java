@@ -1,5 +1,6 @@
 package vinimrs.agendacontatos.model;
 
+import java.util.ArrayList;
 import java.util.List;
 
 public class Contato {
@@ -11,6 +12,7 @@ public class Contato {
   public Contato(String nome, String sobreNome) {
     this.nome = nome;
     this.sobreNome = sobreNome;
+    this.telefones = new ArrayList<>();
   }
 
   public Contato(String nome, String sobreNome, List<Telefone> telefones) {
@@ -23,6 +25,7 @@ public class Contato {
     this.id = id;
     this.nome = nome;
     this.sobreNome = sobreNome;
+    this.telefones = new ArrayList<>();
   }
 
   public Contato(Long id, String nome, String sobreNome, List<Telefone> telefones) {

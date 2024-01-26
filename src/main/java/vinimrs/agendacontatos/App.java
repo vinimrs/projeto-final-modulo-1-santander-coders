@@ -16,7 +16,6 @@ public class App {
         Scanner scanner = new Scanner(System.in);
         int option = 0;
         while (option != 5) {
-
             contatoServices.listarContatos();
 
             System.out.print("\n>>>> Menu <<<<\n" +
